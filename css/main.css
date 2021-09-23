@@ -26,7 +26,7 @@ p {
   padding-top: 5px;
   margin: 0 auto;
   text-align: left;
-  font-size: 12px;
+  font-size: 14px;
   vertical-align: middle;
 }
 .header-content .nav a {
@@ -88,7 +88,7 @@ p {
   display: grid;
 }
 .body-content .articleLayout p {
-  font-size: 14px;
+  font-size: 12px;
 }
 .body-content .articleLayout li {
   font-size: 22px;
