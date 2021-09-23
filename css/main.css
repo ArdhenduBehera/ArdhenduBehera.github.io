@@ -81,7 +81,7 @@ p {
 
 .body-content {
   background-color: white;
-  margin: 0 10%;
+  margin: 10% 15%;
 }
 .body-content .articleLayout {
   display: grid;
